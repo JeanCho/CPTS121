@@ -1,0 +1,6 @@
+﻿  function.c
+c:\users\nicet\desktop\classes\cc++\lab\pa5_jeandongcho\pa5_jeandongcho\function.c(47): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\nicet\desktop\classes\cc++\lab\pa5_jeandongcho\pa5_jeandongcho\function.c(346): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\nicet\desktop\classes\cc++\lab\pa5_jeandongcho\pa5_jeandongcho\function.c(377): warning C4715: 'check_strait': not all control paths return a value
+  PA5_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\PA5_JeanDongCho\Debug\PA5_JeanDongCho.exe
+  PA5_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\PA5_JeanDongCho\Debug\PA5_JeanDongCho.pdb (Full PDB)

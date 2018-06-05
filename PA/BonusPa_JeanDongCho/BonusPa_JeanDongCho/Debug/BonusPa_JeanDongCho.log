@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\lab\bonuspa_jeandongcho\bonuspa_jeandongcho\main.c(5): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\nicet\desktop\classes\cc++\lab\bonuspa_jeandongcho\bonuspa_jeandongcho\main.c(6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nicet\desktop\classes\cc++\lab\bonuspa_jeandongcho\bonuspa_jeandongcho\main.c(8): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  BonusPa_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\BonusPa_JeanDongCho\Debug\BonusPa_JeanDongCho.exe
+  BonusPa_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\BonusPa_JeanDongCho\Debug\BonusPa_JeanDongCho.pdb (Full PDB)

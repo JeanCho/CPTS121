@@ -1,0 +1,13 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\pa\pa7_jeandongcho\pa7_jeandongcho\main.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\pa\pa7_jeandongcho\pa7_jeandongcho\main.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\pa\pa7_jeandongcho\pa7_jeandongcho\main.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\pa\pa7_jeandongcho\pa7_jeandongcho\main.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\pa\pa7_jeandongcho\pa7_jeandongcho\main.c(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  PA7_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\PA\PA7_JeanDongCho\Debug\PA7_JeanDongCho.exe
+  PA7_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\PA\PA7_JeanDongCho\Debug\PA7_JeanDongCho.pdb (Full PDB)

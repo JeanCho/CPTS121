@@ -1,0 +1,21 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\main.c(49): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\main.c(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\main.c(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\main.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\main.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\main.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  function.c
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\function.c(7): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\function.c(25): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\function.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\function.c(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\nicet\desktop\classes\cc++\lab\pa4_jeandongcho\pa4_jeandongcho\function.c(220): warning C4047: '==': 'int (__cdecl *)(int)' differs in levels of indirection from 'int'
+  Generating Code...
+  PA4_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\PA4_JeanDongCho\Debug\PA4_JeanDongCho.exe
+  PA4_JeanDongCho.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\PA4_JeanDongCho\Debug\PA4_JeanDongCho.pdb (Full PDB)
