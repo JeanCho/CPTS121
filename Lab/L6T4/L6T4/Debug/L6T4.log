@@ -1,0 +1,6 @@
+﻿  function.c
+c:\users\nicet\desktop\classes\cc++\lab\l6t4\l6t4\function.c(7): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nicet\desktop\classes\cc++\lab\l6t4\l6t4\function.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  L6T4.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\L6T4\Debug\L6T4.exe
+  L6T4.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\L6T4\Debug\L6T4.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  L2t2.c
+c:\users\nicet\desktop\classes\cc++\lab\l2t2\l2t2\l2t2.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  L2T2.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\L2T2\Debug\L2T2.exe
+  L2T2.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\L2T2\Debug\L2T2.pdb (Full PDB)

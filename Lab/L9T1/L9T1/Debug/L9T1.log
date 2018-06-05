@@ -1,0 +1,4 @@
+﻿  function.c
+c:\users\nicet\desktop\classes\cc++\lab\l9t1\l9t1\function.c(8): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  L9T1.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\L9T1\Debug\L9T1.exe
+  L9T1.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\L9T1\Debug\L9T1.pdb (Full PDB)

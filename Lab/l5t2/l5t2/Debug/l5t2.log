@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\lab\l5t2\l5t2\main.c(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nicet\desktop\classes\cc++\lab\l5t2\l5t2\main.c(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nicet\desktop\classes\cc++\lab\l5t2\l5t2\main.c(16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+  l5t2.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\l5t2\Debug\l5t2.exe
+  l5t2.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\l5t2\Debug\l5t2.pdb (Full PDB)

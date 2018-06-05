@@ -1,0 +1,9 @@
+﻿  socre.c
+c:\users\nicet\desktop\classes\cc++\lab\lecture1\lecture1\socre.c(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\nicet\desktop\classes\cc++\lab\lecture1\lecture1\socre.c(15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\nicet\desktop\classes\cc++\lab\lecture1\lecture1\socre.c(22): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  lecture1.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\lecture1\Debug\lecture1.exe
+  lecture1.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\lecture1\Debug\lecture1.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\lab\lecture0417\lecture0417\main.c(19): warning C4047: 'function': 'Node **' differs in levels of indirection from 'Node *'
+c:\users\nicet\desktop\classes\cc++\lab\lecture0417\lecture0417\main.c(19): warning C4024: 'insert_at_front': different types for formal and actual parameter 1
+c:\users\nicet\desktop\classes\cc++\lab\lecture0417\lecture0417\main.c(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  func.c
+c:\users\nicet\desktop\classes\cc++\lab\lecture0417\lecture0417\func.c(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+  lecture0417.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\lecture0417\Debug\lecture0417.exe
+  lecture0417.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\lecture0417\Debug\lecture0417.pdb (Full PDB)

@@ -1,0 +1,12 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+c:\users\nicet\desktop\classes\cc++\lab\quiz5\quiz5\main.c(24): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'int *'
+  quiz5.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\quiz5\Debug\quiz5.exe
+  quiz5.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\quiz5\Debug\quiz5.pdb (Full PDB)

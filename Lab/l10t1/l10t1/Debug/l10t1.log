@@ -1,0 +1,49 @@
+﻿  main.c
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(13): warning C4047: '=': 'char' differs in levels of indirection from 'char [5]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(14): warning C4047: '=': 'char' differs in levels of indirection from 'char [3]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(15): warning C4047: '=': 'char' differs in levels of indirection from 'char [5]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(16): warning C4047: '=': 'char' differs in levels of indirection from 'char [6]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(17): warning C4047: '=': 'char' differs in levels of indirection from 'char [5]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(18): warning C4047: '=': 'char' differs in levels of indirection from 'char [4]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(19): warning C4047: '=': 'char' differs in levels of indirection from 'char [5]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(20): warning C4047: '=': 'char' differs in levels of indirection from 'char [4]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(21): warning C4047: '=': 'char' differs in levels of indirection from 'char [5]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(22): warning C4047: '=': 'char' differs in levels of indirection from 'char [4]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(23): warning C4047: '=': 'char' differs in levels of indirection from 'char [7]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(24): warning C4047: '=': 'char' differs in levels of indirection from 'char [8]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(25): warning C4047: '=': 'char' differs in levels of indirection from 'char [5]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(26): warning C4047: '=': 'char' differs in levels of indirection from 'char [8]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(27): warning C4047: '=': 'char' differs in levels of indirection from 'char [9]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(28): warning C4047: '=': 'char' differs in levels of indirection from 'char [4]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(29): warning C4047: '=': 'char' differs in levels of indirection from 'char [6]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(30): warning C4047: '=': 'char' differs in levels of indirection from 'char [7]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(31): warning C4047: '=': 'char' differs in levels of indirection from 'char [6]'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\main.c(32): warning C4047: '=': 'char' differs in levels of indirection from 'char [4]'
+  function.c
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(11): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(11): warning C4024: 'strcat': different types for formal and actual parameter 2
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(13): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(13): warning C4024: 'strcat': different types for formal and actual parameter 2
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(15): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(15): warning C4024: 'strcat': different types for formal and actual parameter 2
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(17): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(17): warning C4024: 'strcat': different types for formal and actual parameter 2
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(19): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(19): warning C4024: 'strcat': different types for formal and actual parameter 2
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(21): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(21): warning C4024: 'strcat': different types for formal and actual parameter 2
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(11): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(19): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\nicet\desktop\classes\cc++\lab\l10t1\l10t1\function.c(21): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  Generating Code...
+  l10t1.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\l10t1\Debug\l10t1.exe
+  l10t1.vcxproj -> C:\Users\nicet\Desktop\Classes\CC++\Lab\l10t1\Debug\l10t1.pdb (Full PDB)
